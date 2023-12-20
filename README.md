@@ -15,7 +15,7 @@
 ##
 <p align="left">
 <a href="https://twitter.com/brendinnnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brendinnnnn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brendo fonseca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brendo fonseca" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/brendo-fonseca-b603a6271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brendo fonseca" height="30" width="40" /></a>
 <a href="https://instagram.com/brendinnnnnnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brendinnnnnnnn" height="30" width="40" /></a>
  
 
