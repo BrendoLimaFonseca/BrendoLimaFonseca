@@ -1,6 +1,6 @@
 ### Hello word! Eu sou Brendo
 
-- 🔭 Estou estudando Javasript,html,css
+- 🔭 Estou estudando react e typescript
 - 🤔 Estou a preocura de estágio
 - 😄 Pronouns: Ele/dele
 
