@@ -6,7 +6,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Veja meu portifolio [portfolio]()!
 
 
-## My Skills
+## My Skill
 
 #### Main Stack:
 
