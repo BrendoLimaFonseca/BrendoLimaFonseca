@@ -1,3 +1,5 @@
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQXL75U0BdgoSLMwDen3635IeJpCjShFLxUVAuJvgixjYSfjMZ_L7AtCCs8ihxBwNNDnnODTijjsqeTsaWRX49oLf_CPpH-zGU6kB7idFEtHe6JToRe9OXPoBsm-qE9orW8N0fYg1Kw/w1200-h630-p-k-no-nu/Sem+t%25C3%25ADtulo.png" />
+&nbsp;&nbsp;&nbsp;
 
 
 
@@ -14,6 +16,7 @@
 #### Main Stack:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma,vscode,git,github&theme=dark" />
+
 
 
 ## Contacts:
